@@ -1,6 +1,9 @@
-# serviceworker-webpack-plugin
+# serviceworker-webpack-plugin2
 
 > Simplifies creation of a service worker to serve your webpack bundles.
+
+Fork of [serviceworker-webpack-plugin](https://github.com/oliviertassinari/serviceworker-webpack-plugin)  which is archived and no longer supported,
+supposed to work with latest versions of Webpack.
 
 [![npm version](https://img.shields.io/npm/v/serviceworker-webpack-plugin.svg?style=flat-square)](https://www.npmjs.com/package/serviceworker-webpack-plugin)
 [![npm downloads](https://img.shields.io/npm/dm/serviceworker-webpack-plugin.svg?style=flat-square)](https://www.npmjs.com/package/serviceworker-webpack-plugin)
@@ -12,7 +15,7 @@
 ## Installation
 
 ```sh
-npm install serviceworker-webpack-plugin
+npm install serviceworker-webpack-plugin2
 ```
 
 ## The problem solved
